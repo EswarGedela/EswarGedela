@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EswarGedela
-- 👀 I’m interested in Java based programming.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning cloud computing.
 - 📫 Reach me via email: leswargedela@gmail.com
 
