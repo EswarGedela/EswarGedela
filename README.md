@@ -37,6 +37,6 @@
 ---
 
 ### 💬 Favorite Quote
-> *Simplicity is prerequisite for reliability.”
+> *"Simplicity is prerequisite for reliability.”
 — Edsger W. Dijkstra*
 
