@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eswar Gedela</h1>
-<h3 align="center">I'm a passionate **Software Developer** who loves building clean, scalable, and impactful digital solutions. I specialize in:</h3>
+<h3 align="center">I'm a passionate Software Developer who loves building clean, scalable, and impactful digital solutions. I specialize in:</h3>
 
 ---
 
@@ -17,8 +17,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-eswargedela&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-eswargedela&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eswargedela&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eswargedela&theme=radical" width="48%" />
 </p>
 
 ---
