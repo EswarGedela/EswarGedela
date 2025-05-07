@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eswar Gedela</h1>
-<h3 align="center">Crafting clean code & scalable systems</h3>
+<h3 align="center">I'm a passionate **Software Developer** who loves building clean, scalable, and impactful digital solutions. I specialize in:</h3>
 
 ---
 
@@ -17,29 +17,26 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-eswargedela&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-eswargedela&theme=radical" width="48%" />
 </p>
 
 ---
 
 ### 🌱 Currently Exploring
-- 🚀 Type-safe navigation and deep linking in Compose
-- 🧠 Advanced DSA in Java
+- 🧠 Advanced DSA 
 - ☁️ Python for automation & scripting
 
 ---
 
 ### 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://yourportfolio.dev)
-- 📝 [Blog](https://yourblog.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/eswar-gedela-7a6301151/)
+- 🌐 [Portfolio]
+- 📝 [Blog
 
 ---
 
 ### 💬 Favorite Quote
-> *“Simplicity is the soul of efficiency.” – Austin Freeman*
+> *Simplicity is prerequisite for reliability.”
+— Edsger W. Dijkstra*
 
----
-
-### 👨‍💻 ASCII Signature (Optional)
