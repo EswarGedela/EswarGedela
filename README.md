@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-
+![Angular](https://img.shields.io/badge/-Angular-6DB33F?style=flat&logo=angular)
 ---
 
 ### 📊 GitHub Stats
